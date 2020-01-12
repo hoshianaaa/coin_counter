@@ -15,6 +15,6 @@ coin counter
     
   ・実験結果 
   下の写真のように認識できる
-  <img src="https://github.com/hoshianaaa/coin_counter/blob/master/upload/experiment.png">  
+  <img src="https://github.com/hoshianaaa/coin_counter/blob/master/upload/result.png">  
   
     
