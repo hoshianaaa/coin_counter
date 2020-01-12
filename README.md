@@ -18,6 +18,3 @@ coin counter
   <img src="https://github.com/hoshianaaa/coin_counter/blob/master/upload/experiment.png">  
   
     
-    
-    
-  coin_detection_from_image.ipynb : 写真から硬貨認識
