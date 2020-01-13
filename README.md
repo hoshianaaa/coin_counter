@@ -15,5 +15,8 @@ coin counter
     
   ### 実験結果 
   <img src="https://github.com/hoshianaaa/coin_counter/blob/master/upload/result.png">  
+    
+  ### 動画  
+  https://www.youtube.com/watch?v=zvI4hs3Pt98
   
     
