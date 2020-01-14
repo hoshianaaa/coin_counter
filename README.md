@@ -5,7 +5,10 @@ coin counter
  
 カメラまたは写真上の硬貨を認識し合計金額を計算するアプリケーション  
   
-  coin_detection_from_camera.ipynb : カメラ映像から硬貨認識  
+  プログラムの説明  
+    coin_detection_from_camera.jpynb : カメラ映像から硬貨認識  
+    coin_detection_from_image.jpynb : 画像から硬貨認識
+    
     
   ### 実験環境  
   写真のように赤い紙の上に硬貨を置く  
